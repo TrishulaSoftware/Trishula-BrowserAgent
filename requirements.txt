@@ -1,0 +1,3 @@
+browser-use>=0.13.1
+qdrant-client>=1.7.0
+fastembed>=0.3.0
